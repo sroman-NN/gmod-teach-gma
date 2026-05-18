@@ -1,0 +1,15 @@
+GMOD Teach Gmad - License
+
+Copyright (c) 2026 Sebastian G. Romanelli.
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+You are free to:
+- Share: Copy and redistribute the material in any medium or format.
+- Adapt: Remix, transform, and build upon the material.
+
+Under the following terms:
+- Attribution: You must give appropriate credit to Sebastian G. Romanelli, provide a link to the license, and indicate if changes were made.
+- NonCommercial: You may not use the material for commercial purposes (including but not limited to selling the software, putting it behind paid shorteners, or using it in paid modification packs).
+
+To view a copy of this license, visit http://creativecommons.org

@@ -1,0 +1,31 @@
+------------------------------------------------------------------
+Short user manual with basic instructions for general use
+------------------------------------------------------------------
+
+Its operation and use are quite simple; you only need to provide two inputs (folders/addresses on your computer). You must open the config.ini file and fill in the fields:
+
+GMAD-LS=your/address/where/are-your.gma-o-bin
+
+GMOD-DIR=your/address/where/is-your-"Garrysmods/garrysmods"
+
+(without spaces)
+
+Once that's done, it's as easy as running GMoD-TeachGMAD.exe and press enter to have everything installed automatically , Yes, the .bin files too.
+
+There are several executables in the translated folder. If any of them fail or have an incorrect translation, please report it immediately via the Discord server in bugs-reports or via my contact email with the subject "bug-gmod-t-gmad"
+
+__________________
+How does it work?
+__________________
+
+
+All this tool actually does is: Read your two inputs (directories) where your .gma files are located and where your GMod is installed.
+
+Once all the .gma or .bin files are listed, it will simply process the .bin files, extracting them with 7za.exe (also known as 7zip), and then rename the resulting file to gma.
+
+The gma files will then be sent to gma.exe and moved to the resulting folder in your GMod installation (input number 2), specifically to the addons folder. If it detects a "maps" file, it will send it directly to the maps folder instead of addons, as this reduces the likelihood of map installation failure.
+
+_--------------------------------------------------------------------------------------------------
+
+
+If you like this project, remember that you can support it simply by sending suggestions, feedback, forks, donating, or even just recommending it.
