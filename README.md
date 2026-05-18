@@ -30,7 +30,6 @@ There's still no system for naming and organizing the resulting folders after mo
 You can support it by simply joining the Discord server or following me on Reddit, contributing code, recommendations, suggestions, donations, or anything else you'd like, even just with a mention or recommendation.
 
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-0070ba?logo=paypal)](https://paypal.me/tuusuario)
 
 [![Join Discord](https://img.shields.io/badge/Join-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/AzC9u9EB68)
 
