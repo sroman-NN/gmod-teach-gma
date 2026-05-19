@@ -1,10 +1,10 @@
 /*
 * ===================================================================================================|
 * MoD - TeachGMAD.cpp                                                                                |
-* requires: zlib zlib1.dll + zlib.h/zlib.lib + gmad.exe + 7zip.exe ( standalone console version)     |
+* requires: 7zip/7za.exe ( standalone console version) + gmad.exe (original  bin from gmod)          |
 * Source Code by : Sebastian.G.Romanelli      16/5/2026 8.41pm                                       |
 * ===================================================================================================|
-* Last compilation: 16/5/26 10:47PM | Version : 0.712
+* Last compilation: 19/5/26 13:22PM | Version : 0.712
 * Last public version : 0.712
 */
 
